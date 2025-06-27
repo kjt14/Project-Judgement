@@ -84,7 +84,7 @@ Deliver a modular, real-time, AI-integrated drone simulation and control system 
 
 📣 Contact
 
-For questions or contributions, please reach out to the Team Leader via the team WhatsApp group or open a GitHub issue.
+For questions or contributions, please reach out to the Team Leader and project guide Dhilip J via the team WhatsApp group or open a GitHub issue.
 
 ---
 
