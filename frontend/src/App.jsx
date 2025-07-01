@@ -25,7 +25,7 @@ export default function App() {
       <Router>
         <div className="min-h-screen bg-gray-50">
           <Navbar />
-          <div className="container mx-auto py-8">
+          <div className="container mx-auto">
             <Routes>
               <Route path="/" element={<Welcome />} />
               <Route path="/login" element={<Login />} />

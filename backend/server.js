@@ -16,8 +16,8 @@ const telemetryRoutes = require('./routes/telemetryRoutes');
 // Swagger setup (if used)
 const { swaggerUi, specs } = require('./swagger');
 
-// Error handler (if you’ve added one)
-const errorHandler = require('./middleware/errorHandler');
+// Error handler (if you've added one)
+const errorHandler = require('./middlewares/errorHandler');
 
 // Use routes
 app.use('/api/auth', authRoutes);

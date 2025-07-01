@@ -11,7 +11,7 @@ export default function Navbar() {
   };
 
   return (
-    <nav className="bg-white shadow mb-8">
+    <nav className="bg-white shadow">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <Link to="/" className="text-xl font-bold text-blue-600">PJ</Link>
         <div className="space-x-4">
