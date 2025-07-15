@@ -19,6 +19,12 @@ Thumbs.db
 .env
 .env.*
 
+# Ignore TLS certs 🔐
+backend/certs/
+*.key
+*.cert
+*.pem
+
 # Ignore coverage reports
 coverage/
 
